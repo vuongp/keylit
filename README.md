@@ -2,6 +2,10 @@
 
 KeyLit is a lightweight macOS menu bar utility that allows you to easily toggle the keyboard backlight brightness. Since I personally only turn off the backlight or have it on the dimmest level possible I've made this. It doesn't support anything else.
 
+## Preview
+
+https://github.com/user-attachments/assets/f8cc72fe-9640-4f82-aa5a-85f7eb241230
+
 ## Features
 
 - **Toggle Keyboard Backlight**: Click the menu bar icon to toggle the keyboard brightness between off (`0.0`) and on (`0.0001` or very dim).
